@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Nikode-ux!
+# 👋 Hi there!
 
 Welcome to my GitHub profile. I'm a beginner **full-stack developer**, and I'm on an exciting journey to sharpen my skills and grow every day. I believe that with curiosity and consistent effort, there's nothing you can't learn! 
 
