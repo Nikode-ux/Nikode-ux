@@ -19,4 +19,6 @@ breaking things on purpose, then fixing hem. (mostly 😂)
 coding at weird hours
 
 
+ (not like that im not going to change this every time i will get better 👍)
+
 
