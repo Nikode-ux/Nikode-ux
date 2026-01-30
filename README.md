@@ -1,11 +1,11 @@
 just starting out as a full stack dev — learning everything bit by bit, from frontend to backend and whatever comes in between.
 
 ## I'm currently Learning 📖
-frontend: html, css, js (slowly getting into react)
+### frontend: html, css, js (slowly getting into react)
 
-backend: node.js, express (still figuring things out)
+### backend: node.js, express (still figuring things out)
 
-databases: mysql, mongodb (basics for now)
+### databases: mysql, mongodb (basics for now)
 
 tools: git, vs code etc.
 
