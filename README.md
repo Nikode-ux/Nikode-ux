@@ -5,7 +5,7 @@ just starting out as a full stack dev — learning everything bit by bit, from f
 
 ### backend: node.js (still figuring things out) and python
 
-### databases: mysql, mongodb (basics for now)
+### databases: for now i'm leaving this alone as my goal is NOT learning everything at once.
 
 tools: git, vs code etc.
 
