@@ -1,24 +1,9 @@
-just starting out as a full stack dev — learning everything bit by bit, from frontend to backend and whatever comes in between.
+<h1 align="center">Hi 👋, I'm Nikode-ux</h1>
+<h3 align="center">Programming works like a therapy for me. 😌</h3>
 
-## I'm currently Learning 📖
-### frontend: html, css, js
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### backend: node.js (still figuring things out) and python
-
-### databases: for now i'm leaving this alone as my goal is NOT learning everything at once.
-
-tools: git, vs code etc.
-
-## And what i am doing now? 🙂
-
-building small projects to understand how things connect  🌱
-trying not to copy-paste without understanding.
-breaking things on purpose, then fixing hem. (mostly 😂)
-
-## You can find me:
-coding at weird hours 🦉🌃
-
-
- (not like that im not going to change this every time i will get better 👍)
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
