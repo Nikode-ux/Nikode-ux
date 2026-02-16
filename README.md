@@ -1,4 +1,5 @@
 # 💫 About Me:
+## Programming works on me like therapy 😌
 I've been coding since I was 11.. or maybe 12. <br>I wasn't really serious about it. but few years had passed, and I started to think ✨Hey, what if I could work at IT?✨and that's how it started.<br> Now I'm programming literally everyday when I come back from school. As I mentioned before with the IT, that's my biggest dream. <br>Hope I'll fullfill it someday. 😀
 
 
