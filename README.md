@@ -6,7 +6,7 @@ GOALS & checklist:
 1. become a freelancer
 2. work in IT
 
-
+I REALLY hope i'll fulfill my dream soon enough!
 
 
 # 💻 Tech Stack:
